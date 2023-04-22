@@ -2,6 +2,8 @@
 
 This is a simple movie application built using Redux Toolkit. It allows users to view movie details and search for movies.
 
+Deployed Link: https://redux-toolkit-movieapp.netlify.app/
+
 ## Features
 
 - View movie details, including title, poster, release year, and plot.
